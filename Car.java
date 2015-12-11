@@ -6,6 +6,8 @@ public class Car {
 
 	int a = 1;
 
+
+
 	    public static int getV(){
 	       return V;
 	    }
