@@ -5,6 +5,8 @@ public class Car {
 	public static int V;
 
 	int a = 1;
+	int b = 2;
+	
 
 
 
